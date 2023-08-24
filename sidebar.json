@@ -80,7 +80,7 @@
             "label": "Directory",
             "title": "Directory",
             "component": "peopleDirectory",
-            "path": "People/directory",
+            "path": "people/directory",
             "layout": "home"
           },
           {

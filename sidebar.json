@@ -79,7 +79,7 @@
           {
             "label": "Directory",
             "title": "Directory",
-            "component": "OrgChart",
+            "component": "Directory",
             "path": "people/directory",
             "layout": "home"
           },

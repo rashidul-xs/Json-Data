@@ -152,26 +152,26 @@
             "path": "profile/settings",
             "layout": "home"
           },
-           {
-      "children": [
-       {
-            "label": "Account",
-            "title": "Account",
-            "component": "Account",
-            "path": "profile/account",
-            "layout": "home"
-          },
           {
-            "label": "Settings",
-            "title": "Settings",
-            "component": "Settings",
-            "path": "profile/settings",
-            "layout": "home"
+            "children": [
+              {
+                "label": "Account",
+                "title": "Account",
+                "component": "Account",
+                "path": "groupItem/account",
+                "layout": "home"
+              },
+              {
+                "label": "Settings",
+                "title": "Settings",
+                "component": "Settings",
+                "path": "groupItem/settings",
+                "layout": "home"
+              }
+            ],
+            "label": "Group Item",
+            "type": "group"
           }
-      ],
-      "label": "Item 1",
-      "type": "group"
-    }
         ]
       }
     ]

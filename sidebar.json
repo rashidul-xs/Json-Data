@@ -1,4 +1,9 @@
 [
+   {
+    "path": "/",
+    "compomemt": "HomePage",
+    "layout": "app"
+  },
   {
     "icon": "Home",
     "title": "Dashboard",

@@ -153,6 +153,69 @@
             "layout": "home"
           }
         ]
+      },
+      {
+        "label": "Profile 2",
+        "type" : "group",
+        "child": 8,
+        "children": [
+          {
+            "label": "Personal",
+            "title": "Personal",
+            "component": "Personal",
+            "path": "profile/personal",
+            "layout": "home"
+          },
+          {
+            "label": "Job",
+            "title": "Job",
+            "component": "Job",
+            "path": "profile/job",
+            "layout": "home"
+          },
+          {
+            "label": "Payroll",
+            "title": "Payroll",
+            "component": "Payroll",
+            "path": "profile/payroll",
+            "layout": "home"
+          },
+          {
+            "label": "Performance",
+            "title": "Performance",
+            "component": "Performance",
+            "path": "profile/performance",
+            "layout": "home"
+          },
+          {
+            "label": "Documents",
+            "title": "Documents",
+            "component": "Documents",
+            "path": "profile/documents",
+            "layout": "home"
+          },
+          {
+            "label": "Dependents",
+            "title": "Dependents",
+            "component": "Dependents",
+            "path": "profile/dependents",
+            "layout": "home"
+          },
+          {
+            "label": "Account",
+            "title": "Account",
+            "component": "Account",
+            "path": "profile/account",
+            "layout": "home"
+          },
+          {
+            "label": "Settings",
+            "title": "Settings",
+            "component": "Settings",
+            "path": "profile/settings",
+            "layout": "home"
+          }
+        ]
       }
     ]
   },

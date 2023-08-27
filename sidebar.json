@@ -153,6 +153,9 @@
             "layout": "home"
           },
           {
+            "label": "Group Item",
+            "type": "group",
+            "child": 2,
             "children": [
               {
                 "label": "Account",
@@ -168,9 +171,7 @@
                 "path": "groupItem/settings",
                 "layout": "home"
               }
-            ],
-            "label": "Group Item",
-            "type": "group"
+            ]
           }
         ]
       }

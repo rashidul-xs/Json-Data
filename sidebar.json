@@ -1,34 +1,5 @@
 [
   {
-    "icon": "Home",
-    "title": "Dashboard",
-    "path": "dashboard",
-    "component": "MainDashboard",
-    "layout": "app",
-    "menuItems": [
-      {
-        "label": "Dashboard",
-        "child": 2,
-        "children": [
-          {
-            "label": "Item 1",
-            "title": "Item 1",
-            "component": "Item1",
-            "path": "secondpath/item1",
-            "layout": "home"
-          },
-          {
-            "label": "Item 2",
-            "title": "Item 2",
-            "component": "OrgChart",
-            "path": "secondpath/item2",
-            "layout": "home"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "icon": "Document",
     "title": "Applications",
     "path": "applications",

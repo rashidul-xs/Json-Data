@@ -1,7 +1,8 @@
 [
    {
     "path": "/",
-    "compomemt": "HomePage",
+    "title": "Yo Suite",
+    "component": "HomePage",
     "layout": "app"
   },
   {

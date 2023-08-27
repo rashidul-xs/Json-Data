@@ -151,7 +151,23 @@
             "component": "Settings",
             "path": "profile/settings",
             "layout": "home"
-          }
+          },
+           {
+      "key": "g1",
+      "icon": null,
+      "children": [
+        {
+          "key": "1",
+          "label": "Option 1"
+        },
+        {
+          "key": "2",
+          "label": "Option 2"
+        }
+      ],
+      "label": "Item 1",
+      "type": "group"
+    },
         ]
       }
     ]

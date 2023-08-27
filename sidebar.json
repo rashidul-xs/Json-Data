@@ -220,6 +220,71 @@
     ]
   },
   {
+        "label": "Profile 2",
+        "type" : "group",
+        "child": 8,
+        "children": [
+          {
+            "label": "Personal",
+            "title": "Personal",
+            "component": "Personal",
+            "path": "profile2/personal",
+            "layout": "home"
+          },
+          {
+            "label": "Job",
+            "title": "Job",
+            "component": "Job",
+            "path": "profile2/job",
+            "layout": "home"
+          },
+          {
+            "label": "Payroll",
+            "title": "Payroll",
+            "component": "Payroll",
+            "path": "profile2/payroll",
+            "layout": "home"
+          },
+          {
+            "label": "Performance",
+            "title": "Performance",
+            "component": "Performance",
+            "path": "profile2/performance",
+            "layout": "home"
+          },
+          {
+            "label": "Documents",
+            "title": "Documents",
+            "component": "Documents",
+            "path": "profile2/documents",
+            "layout": "home"
+          },
+          {
+            "label": "Dependents",
+            "title": "Dependents",
+            "component": "Dependents",
+            "path": "profile2/dependents",
+            "layout": "home"
+          },
+          {
+            "label": "Account",
+            "title": "Account",
+            "component": "Account",
+            "path": "profile2/account",
+            "layout": "home"
+          },
+          {
+            "label": "Settings",
+            "title": "Settings",
+            "component": "Settings",
+            "path": "profile2/settings",
+            "layout": "home"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "icon": "Statistics",
     "title": "Analytics",
     "path": "analytics",

@@ -153,17 +153,21 @@
             "layout": "home"
           },
            {
-      "key": "g1",
-      "icon": null,
       "children": [
-        {
-          "key": "1",
-          "label": "Option 1"
-        },
-        {
-          "key": "2",
-          "label": "Option 2"
-        }
+       {
+            "label": "Account",
+            "title": "Account",
+            "component": "Account",
+            "path": "profile/account",
+            "layout": "home"
+          },
+          {
+            "label": "Settings",
+            "title": "Settings",
+            "component": "Settings",
+            "path": "profile/settings",
+            "layout": "home"
+          },
       ],
       "label": "Item 1",
       "type": "group"

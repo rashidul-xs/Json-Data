@@ -217,6 +217,6 @@
     "title": "Logout",
     "layout": "app",
     "component": "Dashboard",
-    "path": ""
+    "path": "logout"
   }
 ]

@@ -167,11 +167,11 @@
             "component": "Settings",
             "path": "profile/settings",
             "layout": "home"
-          },
+          }
       ],
       "label": "Item 1",
       "type": "group"
-    },
+    }
         ]
       }
     ]

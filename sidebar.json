@@ -11,7 +11,7 @@
     "path": "dashboard",
     "component": "MainDashboard",
     "layout": "app",
-    "menuItems": [
+    "children": [
       {
         "label": "Dashboard",
         "child": 2,
@@ -40,7 +40,7 @@
     "path": "applications",
     "component": "Applications",
     "layout": "app",
-    "menuItems": [
+    "children": [
       {
         "label": "Applications",
         "child": 2,
@@ -62,7 +62,7 @@
     "path": "user_profile",
     "component": "User",
     "layout": "app",
-    "menuItems": [
+    "children": [
       {
         "label": "Dashboard",
         "title": "Dashboard",

@@ -21,8 +21,8 @@
 				component: 'OrgChart',
 				path: 'secondpath/item2',
 				layout: 'home',
-			},
-		],
+			}
+		]
 	},
 	{
 		label: 'Applications',
@@ -33,8 +33,8 @@
 				component: 'Application1',
 				path: 'secondpath/applications1',
 				layout: 'home',
-			},
-		],
+			}
+		]
 	},
 	{
 		label: 'Dashboard',
@@ -66,8 +66,8 @@
 				component: 'OrgChart',
 				path: 'people/org_chart',
 				layout: 'home',
-			},
-		],
+			}
+		]
 	},
 	{
 		label: 'Profile',
@@ -145,9 +145,9 @@
 						component: 'Settings',
 						path: 'groupItem/settings',
 						layout: 'home',
-					},
-				],
-			},
-		],
-	},
+					}
+				]
+			}
+		]
+	}
 ];

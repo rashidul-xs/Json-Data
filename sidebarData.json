@@ -2,7 +2,7 @@
   {
     "path": "/",
     "title": "Yo Suite",
-    "component": "HomePage",
+    "component": "appPage",
     "layout": "app"
   },
   {
@@ -13,14 +13,14 @@
         "title": "Item 1",
         "component": "Item1",
         "path": "secondpath/item1",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Item 2",
         "title": "Item 2",
         "component": "OrgChart",
         "path": "secondpath/item2",
-        "layout": "home"
+        "layout": "app"
       }
     ]
   },
@@ -32,7 +32,7 @@
         "title": "Applications 1",
         "component": "Application1",
         "path": "secondpath/applications1",
-        "layout": "home"
+        "layout": "app"
       }
     ]
   },
@@ -41,7 +41,7 @@
     "title": "Dashboard",
     "component": "UserDashboard",
     "path": "dashboard",
-    "layout": "home"
+    "layout": "app"
   },
   {
     "label": "People",
@@ -51,21 +51,21 @@
         "title": "Manage Employees",
         "component": "ManageEmployees",
         "path": "people/manage_employees",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Directory",
         "title": "Directory",
         "component": "PeopleDir",
         "path": "people/directory",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Org Chart",
         "title": "Org Chart",
         "component": "OrgChart",
         "path": "people/org_chart",
-        "layout": "home"
+        "layout": "app"
       }
     ]
   },
@@ -77,56 +77,56 @@
         "title": "Personal",
         "component": "Personal",
         "path": "profile/personal",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Job",
         "title": "Job",
         "component": "Job",
         "path": "profile/job",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Payroll",
         "title": "Payroll",
         "component": "Payroll",
         "path": "profile/payroll",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Performance",
         "title": "Performance",
         "component": "Performance",
         "path": "profile/performance",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Documents",
         "title": "Documents",
         "component": "Documents",
         "path": "profile/documents",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Dependents",
         "title": "Dependents",
         "component": "Dependents",
         "path": "profile/dependents",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Account",
         "title": "Account",
         "component": "Account",
         "path": "profile/account",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Settings",
         "title": "Settings",
         "component": "Settings",
         "path": "profile/settings",
-        "layout": "home"
+        "layout": "app"
       },
       {
         "label": "Group Item",
@@ -137,14 +137,14 @@
             "title": "Account",
             "component": "Account",
             "path": "groupItem/account",
-            "layout": "home"
+            "layout": "app"
           },
           {
             "label": "Settings",
             "title": "Settings",
             "component": "Settings",
             "path": "groupItem/settings",
-            "layout": "home"
+            "layout": "app"
           }
         ]
       }

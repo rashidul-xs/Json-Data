@@ -40,7 +40,7 @@
     "label": "Dashboard",
     "title": "Dashboard",
     "component": "UserDashboard",
-    "path": "application/dashboard",
+    "path": "dashboard",
     "layout": "app"
   },
   {

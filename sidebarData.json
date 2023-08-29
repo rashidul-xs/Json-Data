@@ -7,12 +7,13 @@
   },
   {
     "label": "Dashboard",
+    "path" : "mainDashboard"
     "children": [
       {
         "label": "Item 1",
         "title": "Item 1",
         "component": "Item1",
-        "path": "main_dashboard/item1",
+        "path": "item1",
         "layout": "app"
       },
       {

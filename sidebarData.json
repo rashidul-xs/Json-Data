@@ -12,14 +12,14 @@
         "label": "Item 1",
         "title": "Item 1",
         "component": "Item1",
-        "path": "/main_dashboard/item1",
+        "path": "main_dashboard/item1",
         "layout": "app"
       },
       {
         "label": "Item 2",
         "title": "Item 2",
         "component": "OrgChart",
-        "path": "/main_dashboard/item2",
+        "path": "main_dashboard/item2",
         "layout": "app"
       }
     ]
@@ -31,7 +31,7 @@
         "label": "Applications 1",
         "title": "Applications 1",
         "component": "Application1",
-        "path": "/application/applications1",
+        "path": "application/applications1",
         "layout": "app"
       }
     ]
@@ -40,7 +40,7 @@
     "label": "Dashboard",
     "title": "Dashboard",
     "component": "UserDashboard",
-    "path": "/dashboard",
+    "path": "dashboard",
     "layout": "app"
   },
   {

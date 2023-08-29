@@ -1,5 +1,5 @@
 [
-	{
+	{ 
 		label: 'Dashboard',
 		child: 2,
 		children: [

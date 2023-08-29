@@ -7,31 +7,33 @@
   },
   {
     "label": "Dashboard",
+    "path" : "main_dashboard",
     "children": [
       {
         "label": "Item 1",
         "title": "Item 1",
         "component": "Item1",
-        "path": "secondpath/item1",
+        "path": "item1",
         "layout": "app"
       },
       {
         "label": "Item 2",
         "title": "Item 2",
         "component": "OrgChart",
-        "path": "secondpath/item2",
+        "path": "item2",
         "layout": "app"
       }
     ]
   },
   {
     "label": "Applications",
+    "path" : "application",
     "children": [
       {
         "label": "Applications 1",
         "title": "Applications 1",
         "component": "Application1",
-        "path": "secondpath/applications1",
+        "path": "applications1",
         "layout": "app"
       }
     ]
@@ -45,105 +47,108 @@
   },
   {
     "label": "People",
+    "path": "people",
     "children": [
       {
         "label": "Manage Employees",
         "title": "Manage Employees",
         "component": "ManageEmployees",
-        "path": "people/manage_employees",
+        "path": "manage_employees",
         "layout": "app"
       },
       {
         "label": "Directory",
         "title": "Directory",
         "component": "PeopleDir",
-        "path": "people/directory",
+        "path": "directory",
         "layout": "app"
       },
       {
         "label": "Org Chart",
         "title": "Org Chart",
         "component": "OrgChart",
-        "path": "people/org_chart",
+        "path": "org_chart",
         "layout": "app"
       }
     ]
   },
   {
     "label": "Profile",
+    "path" : "profile",
     "children": [
       {
         "label": "Personal",
         "title": "Personal",
         "component": "Personal",
-        "path": "profile/personal",
+        "path": "personal",
         "layout": "app"
       },
       {
         "label": "Job",
         "title": "Job",
         "component": "Job",
-        "path": "profile/job",
+        "path": "job",
         "layout": "app"
       },
       {
         "label": "Payroll",
         "title": "Payroll",
         "component": "Payroll",
-        "path": "profile/payroll",
+        "path": "payroll",
         "layout": "app"
       },
       {
         "label": "Performance",
         "title": "Performance",
         "component": "Performance",
-        "path": "profile/performance",
+        "path": "performance",
         "layout": "app"
       },
       {
         "label": "Documents",
         "title": "Documents",
         "component": "Documents",
-        "path": "profile/documents",
+        "path": "documents",
         "layout": "app"
       },
       {
         "label": "Dependents",
         "title": "Dependents",
         "component": "Dependents",
-        "path": "profile/dependents",
+        "path": "dependents",
         "layout": "app"
       },
       {
         "label": "Account",
         "title": "Account",
         "component": "Account",
-        "path": "profile/account",
+        "path": "account",
         "layout": "app"
       },
       {
         "label": "Settings",
         "title": "Settings",
         "component": "Settings",
-        "path": "profile/settings",
+        "path": "settings",
         "layout": "app"
       },
       {
         "label": "Group Item",
+        "path" : "group_item",
         "type": "group",
         "children": [
           {
             "label": "Account",
             "title": "Account",
             "component": "Account",
-            "path": "groupItem/account",
+            "path": "account",
             "layout": "app"
           },
           {
             "label": "Settings",
             "title": "Settings",
             "component": "Settings",
-            "path": "groupItem/settings",
+            "path": "settings",
             "layout": "app"
           }
         ]

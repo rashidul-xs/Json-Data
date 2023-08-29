@@ -1,4 +1,10 @@
 [
+	 {
+    "path": "/",
+    "title": "Yo Suite",
+    "component": "HomePage",
+    "layout": "app"
+  },
 	{ 
 		label: 'Dashboard',
 		child: 2,

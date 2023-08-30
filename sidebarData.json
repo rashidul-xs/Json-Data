@@ -46,7 +46,7 @@
   {
     "label": "People",
     "path" : "people",
-    "View" : "People",
+    "component" : "People",
     "children": [
       {
         "label": "Manage Employees",

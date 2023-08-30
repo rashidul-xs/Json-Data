@@ -45,27 +45,28 @@
   },
   {
     "label": "People",
+    "path" : "people"
     "children": [
       {
         "label": "Manage Employees",
         "title": "Manage Employees",
         "component": "ManageEmployees",
-        "path": "people/manage_employees",
-        "layout": "app"
+        "path": "manage_employees",
+        "layout": "home"
       },
       {
         "label": "Directory",
         "title": "Directory",
         "component": "PeopleDir",
-        "path": "people/directory",
-        "layout": "app"
+        "path": "directory",
+        "layout": "home"
       },
       {
         "label": "Org Chart",
         "title": "Org Chart",
         "component": "OrgChart",
-        "path": "people/org_chart",
-        "layout": "app"
+        "path": "org_chart",
+        "layout": "home"
       }
     ]
   },

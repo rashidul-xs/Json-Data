@@ -59,6 +59,19 @@
             "RightSidebar",
             "History"
           ]
+        },
+         {
+          "path": "/people/test",
+          "label": "Test",
+          "labelStyle": {
+            "textColor": "red"
+          },
+          "layoutComponent": "Details",
+          "innerComponents": [
+            "HisToryTimeLine",
+            "InfoTable",
+            "Directory"
+          ]
         }
       ]
     }

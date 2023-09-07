@@ -55,7 +55,7 @@
           },
           "layoutComponent": "Details",
           "innerComponents": [
-            "HisToryTimeLine",
+            "HisToryTimeline",
             "InfoTable",
             "Directory"
           ]

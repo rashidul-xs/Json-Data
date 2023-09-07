@@ -59,6 +59,19 @@
             "InfoTable",
             "Directory"
           ]
+        },
+        {
+          "path": "/people/:peopleId",
+          "label": "People",
+          "labelStyle": {
+            "textColor": "#ff00bb"
+          },
+          "layoutComponent": "Details",
+          "innerComponents": [
+            "MultiCards",
+            "RightSidebar",
+            "History"
+          ]
         }
       ]
     }

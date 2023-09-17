@@ -71,7 +71,8 @@
           "innerComponents": [
             "MultiCards",
             "RightSidebar",
-            "History"
+            "History",
+            "ProfilePersonal"
           ]
         }
       ]

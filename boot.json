@@ -24,19 +24,6 @@
     },
     "routes": [
       {
-        "path": "/",
-        "label": "Dashboard",
-        "labelStyle": {
-          "textColor": "#ff00bb"
-        },
-        "layoutComponent": "Analytics",
-        "innerComponents": [
-          "Report1",
-          "Report2",
-          "Report3"
-        ]
-      },
-      {
         "path": "/people",
         "label": "People",
         "layoutComponent": "Details",
